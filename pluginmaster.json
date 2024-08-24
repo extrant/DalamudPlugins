@@ -1,17 +1,17 @@
 [
-{
-    "Author": "Siren",
-    "Name": "I-Ching",
-    "Punchline": "入无窮之門，以遊无極之野。吾與日月參光，吾與天地為常。",
-    "Description": "Qian Kun Zhen Xun Kan Li Gen Dui",
-    "ApplicableVersion": "any",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/I-Ching.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/I-Ching.zip",	
-    "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/bagua.png",
-    "RepoUrl": "https://github.com/extrant/I-Ching",
-    "AssemblyVersion": "0.24.8.21",
-    "DalamudApiLevel": "10"
-}
+    {
+        "Author": "Siren",
+        "Name": "I-Ching",
+        "Punchline": "入无窮之門，以遊无極之野。吾與日月參光，吾與天地為常。",
+        "Description": "Qian Kun Zhen Xun Kan Li Gen Dui",
+        "ApplicableVersion": "any",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/I-Ching.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/I-Ching.zip",	
+        "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/bagua.png",
+        "RepoUrl": "https://github.com/extrant/I-Ching",
+        "AssemblyVersion": "0.24.8.21",
+        "DalamudApiLevel": "10"
+    }
 ]
