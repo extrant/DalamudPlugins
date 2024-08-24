@@ -4,5 +4,5 @@
 ## 仓库链接 / Repo Link
 
 ```
-https://raw.githubusercontent.com/Siren/DalamudPlugins/main/pluginmaster.json
+https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json
 ```
