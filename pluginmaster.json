@@ -5,7 +5,7 @@
     "Punchline": "入无窮之門，以遊无極之野。吾與日月參光，吾與天地為常。",
     "Description": "乾坤震巽坎离艮兑 Hexagrams",
     "InternalName": "I-Ching",
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "0.0.1.1",
     "RepoUrl": "https://github.com/extrant/I-Ching",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
