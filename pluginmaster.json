@@ -36,5 +36,24 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/Zhouyi.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/Zhouyi.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/zhouyi.png"
+  },
+  {
+    "Author": "Siren",
+    "Name": "Coyote-FFXiv",
+    "Punchline": "医疗产品。",
+    "Description": "通过条件触发实现郊狼的控制，对接Coyote。",
+    "InternalName": "Coyote-FFXiv",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/extrant/Coyote-FFXiv",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/Coyote-FFXiv.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/Coyote-FFXiv.zip",
+    "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/Coyote.png"
   }
 ]
