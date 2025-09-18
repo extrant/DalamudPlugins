@@ -74,7 +74,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "A housing tool",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
 	"DownloadLinkInstall": "https://github.com/extrant/HousingPos/releases/download/1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/extrant/HousingPos/releases/download/1/latest.zip"
   }
