@@ -105,6 +105,7 @@
     "InternalName": "InsertNameHere3",
     "AssemblyVersion": "1.0.0.19",
     "RepoUrl": "https://github.com/transparent-duck/InsertNameHere3",
+	"Changelog": "fix：增加多语言支持。\nIncrease multilingual support.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
