@@ -103,7 +103,7 @@
     "Punchline": "仅修复，不提供长期支持。",
     "Description": "Helps you kill",
     "InternalName": "InsertNameHere3",
-    "AssemblyVersion": "1.0.0.17",
+    "AssemblyVersion": "1.0.0.18",
     "RepoUrl": "https://github.com/transparent-duck/InsertNameHere3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
