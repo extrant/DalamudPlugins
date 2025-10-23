@@ -96,5 +96,24 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/FFXIVNetworkPacketAnalysisTool/refs/heads/main/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/FFXIVNetworkPacketAnalysisTool/refs/heads/main/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/IMGSave/refs/heads/main/FFXivStorkLauncher/NPATool.png"
+  },
+  {
+    "Author": "John Smith && OttoCorp",
+    "Name": "InsertNameHere3",
+    "Punchline": "仅修复，不提供长期支持。",
+    "Description": "Helps you kill",
+    "InternalName": "InsertNameHere3",
+    "AssemblyVersion": "1.0.0.17",
+    "RepoUrl": "https://github.com/transparent-duck/InsertNameHere3",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1919810,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/InsertNameHere3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/InsertNameHere3.zip",
+    "IconUrl": "https://raw.githubusercontent.com/extrant/InsertNameHere3BuffList/refs/heads/main/INH3.png"
   }
 ]
