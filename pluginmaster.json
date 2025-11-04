@@ -6,7 +6,7 @@
     "Description": "我是一个FF14学习插件(国服API13)",
     "InternalName": "I-Ching-GL",
     "AssemblyVersion": "0.1.3.5",
-	"Changelog": "fix：修复死宫层数检测，接入适配新死宫模式。\n删除大量重复冗余功能，加快速度。",
+	"Changelog": "fix：修复死宫层数检测，接入适配新死宫模式。\n删除大量重复冗余功能，加快速度。\n删除自定义字体，缩减本体大小。\n删除更新器窗口，根本就没用啊这个玩意。",
     "RepoUrl": "https://github.com/extrant/I-Ching",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
