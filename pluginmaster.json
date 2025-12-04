@@ -118,5 +118,31 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/InsertNameHere3.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/InsertNameHere3.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/InsertNameHere3BuffList/refs/heads/main/INH3.png"
+  },
+  {
+    "Author": "Siren",
+    "Name": "GposeResizer",
+    "InternalName": "GposeResizer",
+    "AssemblyVersion": "0.0.0.1",
+    "Punchline": "在 Gpose 中一键切换超高分辨率与隐藏 UI，实现所见即所得的摄影体验。",
+    "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
+    "RepoUrl": "https://github.com/extrant?tab=repositories",
+    "Tags": [
+      "gpose",
+      "screenshot",
+      "resolution",
+      "utility",
+      "photography"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 1919810,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/GposeResizer.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/GposeResizer.zip",
+    "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/GposeResizer.png"
   }
 ]
