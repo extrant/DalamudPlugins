@@ -123,7 +123,7 @@
     "Author": "Siren",
     "Name": "GposeResizer",
     "InternalName": "GposeResizer",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "Punchline": "在 Gpose 中一键切换超高分辨率与隐藏 UI，实现所见即所得的摄影体验。",
     "Description": "在集体动作(Gpose)模式下，允许通过热键将游戏渲染分辨率切换至自定义的超高分辨率。",
     "RepoUrl": "https://github.com/extrant?tab=repositories",
@@ -134,7 +134,7 @@
       "utility",
       "photography"
     ],
-	"Changelog": "0.0.0.3 - 在右键菜单增加了一个与目标对齐功能，按下后会自动将坐标与面相设置成目标对应的数值以跳过微调阶段。[目标与你的距离最大为5]",
+	"Changelog": "0.0.0.4 - 0.0.0.4 - 完善了右键菜单目标对齐功能的判定",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
