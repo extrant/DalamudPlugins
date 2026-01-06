@@ -6,7 +6,7 @@
     "Punchline": "入无窮之門，以遊无極之野。吾與日月參光，吾與天地為常。",
     "Description": "我是一个FF14学习插件(国际服API14)",
     "InternalName": "I-Ching-GL",
-    "AssemblyVersion": "0.1.4.11",
+    "AssemblyVersion": "0.1.4.12",
     "RepoUrl": "https://github.com/extrant/I-Ching",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
