@@ -14,7 +14,7 @@
 	"LoadPriority": 0,
 	"IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/saucericon.png",
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/GoldSaucerTree.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/GoldSaucerTree.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/GoldSaucerTree.zip",
 	"Punchline": "吉田直树官方金蝶币直刷插件。手动？那是上个版本的事了。",
 	"AcceptsFeedback": true
   }
