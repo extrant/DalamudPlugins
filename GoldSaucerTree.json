@@ -4,7 +4,7 @@
 	"Author": "Siren",
 	"Name": "GoldSaucerTree",
 	"InternalName": "GoldSaucerTree",
-	"AssemblyVersion": "0.1.0.0",
+	"AssemblyVersion": "0.1.1.0",
 	"Description": "本插件：让你的金蝶币像开了挂一样狂飙（真的只是像）。适合所有‘我只是想轻松点’的冒险者，建议搭配‘我没有外挂’宣言使用。",
 	"ApplicableVersion": "any",
 	"DalamudApiLevel": 15,
