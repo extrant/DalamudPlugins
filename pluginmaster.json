@@ -111,7 +111,7 @@
   "Punchline": "纯净游戏窗口捕获 — 为 OBS 提供无注入画面",
   "Description": "创建一个独立的系统级预览窗口，将纯净的游戏画面（可选含/不含 UI）输出给 OBS 捕获。支持隐身模式，窗口可从任务栏和 Alt+Tab 中隐藏，同时仍被 OBS 识别。支持多语言。",
   "InternalName": "CleanWindow",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "RepoUrl": "https://github.com/SirenPVP/CleanWindow",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
