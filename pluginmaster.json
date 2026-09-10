@@ -123,5 +123,24 @@
   "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/CleanWindow.zip",
   "DownloadLinkUpdate": "",
   "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/CleanWindow.png"
+  },
+  {
+  "Author": "Siren",
+  "Name": "SirenTriad",
+  "Punchline": "一个幻卡成就助手",
+  "Description": "提供幻卡图鉴快速检索，提供检索未获取幻卡的获取信息。以及提供自动幻卡对局方案，和推荐卡组注入功能。",
+  "InternalName": "SirenTriad",
+  "AssemblyVersion": "0.0.0.1",
+  "RepoUrl": "https://github.com/extrant/I-Ching",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "TestingDalamudApiLevel": 15,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 114514,
+  "LastUpdate": 0,  
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/AutoTriadC.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/AutoTriadC.zip",
+  "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/%E5%8F%91%E5%8C%85%E5%B9%BB%E5%8D%A1.png"
   }
 ]
