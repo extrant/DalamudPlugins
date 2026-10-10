@@ -7,7 +7,7 @@
     "InternalName": "I-Ching-GL",
     "AssemblyVersion": "1.0.0.0",
 	"Changelog": "fix：\n1-移动咏唱不可用。",
-    "RepoUrl": "https://github.com/extrant/I-Ching",
+    "RepoUrl": "https://github.com/extrant/DalamudPluginAssets",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "TestingDalamudApiLevel": 15,
@@ -15,8 +15,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 114514,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/I-Ching-GL.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/I-Ching-GL.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/I-Ching-GL.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/I-Ching-GL.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/bagua.png"
   },      
   {
@@ -26,7 +26,7 @@
     "Description": "战场小助手",
     "InternalName": "Zhouyi",
     "AssemblyVersion": "0.0.0.5",
-    "RepoUrl": "https://github.com/extrant/I-Ching",
+    "RepoUrl": "https://github.com/extrant/DalamudPluginAssets",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
@@ -34,8 +34,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/Zhouyi.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/Zhouyi.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/Zhouyi.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/Zhouyi.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/zhouyi.png"
   },
   {
@@ -54,8 +54,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/Coyote-FFXiv.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/Coyote-FFXiv.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/Coyote-FFXiv.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/Coyote-FFXiv.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/Coyote.png"
   },
   {
@@ -100,8 +100,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1919810,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/GposeResizer.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/GposeResizer.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/GposeResizer.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/GposeResizer.zip",
     "IconUrl": "https://raw.githubusercontent.com/extrant/SIREN2/main/images/GposeResizer.png"
   },
   {
@@ -120,9 +120,9 @@
   "IsTestingExclusive": "False",
   "DownloadCount": 1919810,
   "LastUpdate": 0,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/CleanWindow.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/CleanWindow.zip",
   "DownloadLinkUpdate": "",
-  "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/CleanWindow.png"
+  "IconUrl": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/refs/heads/main/CleanWindow.png"
   },
   {
   "Author": "Siren",
@@ -131,7 +131,7 @@
   "Description": "提供幻卡图鉴快速检索，提供检索未获取幻卡的获取信息。以及提供自动幻卡对局方案，和推荐卡组注入功能。",
   "InternalName": "AutoTriadC",
   "AssemblyVersion": "0.0.0.3",
-  "RepoUrl": "https://github.com/extrant/I-Ching",
+  "RepoUrl": "https://github.com/extrant/DalamudPluginAssets",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "TestingDalamudApiLevel": 15,
@@ -139,8 +139,8 @@
   "IsTestingExclusive": "False",
   "DownloadCount": 114514,
   "LastUpdate": 0,  
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/I-Ching/main/AutoTriadC.zip",
-  "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/I-Ching/main/AutoTriadC.zip",
-  "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/%E5%8F%91%E5%8C%85%E5%B9%BB%E5%8D%A1.png"
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/AutoTriadC.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/AutoTriadC.zip",
+  "IconUrl": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/refs/heads/main/%E5%8F%91%E5%8C%85%E5%B9%BB%E5%8D%A1.png"
   }
 ]

@@ -12,9 +12,9 @@
 	"LoadSync": false,
 	"CanUnloadAsync": false,
 	"LoadPriority": 0,
-	"IconUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/saucericon.png",
-	"DownloadLinkInstall": "https://gh-proxy.org/https://raw.githubusercontent.com/extrant/I-Ching/main/GoldSaucerTree.zip",
-	"DownloadLinkUpdate": "https://gh-proxy.org/https://raw.githubusercontent.com/extrant/I-Ching/main/GoldSaucerTree.zip",
+	"IconUrl": "https://gh-proxy.org/https://raw.githubusercontent.com/extrant/DalamudPluginAssets/refs/heads/main/saucericon.png",
+	"DownloadLinkInstall": "https://gh-proxy.org/https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/GoldSaucerTree.zip",
+	"DownloadLinkUpdate": "https://gh-proxy.org/https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/GoldSaucerTree.zip",
 	"Punchline": "吉田直树官方金蝶币直刷插件。手动？那是上个版本的事了。",
 	"AcceptsFeedback": true
   }
