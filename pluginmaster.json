@@ -152,6 +152,7 @@
   "AssemblyVersion": "0.3.6.0",
   "Changelog": "0.3.6：撤回 0.3.5 的镜头复刻改动，恢复 0.3.4 的行为。请在设置页更新后端。\n0.3.6: reverted the 0.3.5 camera matching changes (back to 0.3.4 behaviour). Update the backend in Settings.",
   "RepoUrl": "https://github.com/extrant/Posegraph",
+  "IconUrl": "https://raw.githubusercontent.com/extrant/Posegraph/main/Posegraph/images/icon.png",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "TestingDalamudApiLevel": 15,
