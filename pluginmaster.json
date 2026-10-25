@@ -150,8 +150,7 @@
   "Punchline": "从照片或插画识别姿势，一键摆到 GPose 角色身上 / Photo or illustration to Brio pose",
   "Description": "用本地 AI 后端（SAM 3D Body）识别照片或插画里的人物姿势，重定向到你的种族骨架后通过 Brio 应用到 GPose 角色。支持复刻照片镜头、调整滑杆、导出 .pose，中英文界面。需要 Brio 与 Posegraph 后端一键包（见项目主页）。目前只适配男性骨架。",
   "AssemblyVersion": "0.3.1.0",
-  "Changelog": "新增：一键包用户可在设置页一键更新后端（只下载不到 1MB 的源码）。
-女性骨架标记为未适配。",
+  "Changelog": "新增：一键包用户可在设置页一键更新后端（只下载不到 1MB 的源码）。\n女性骨架标记为未适配。",
   "RepoUrl": "https://github.com/extrant/Posegraph",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
