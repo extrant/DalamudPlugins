@@ -142,5 +142,24 @@
   "DownloadLinkInstall": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/AutoTriadC.zip",
   "DownloadLinkUpdate": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/main/AutoTriadC.zip",
   "IconUrl": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/refs/heads/main/%E5%8F%91%E5%8C%85%E5%B9%BB%E5%8D%A1.png"
+  },
+  {
+  "Author": "Siren",
+  "Name": "Posegraph",
+  "InternalName": "Posegraph",
+  "Punchline": "从照片或插画识别姿势，一键摆到 GPose 角色身上 / Photo or illustration to Brio pose",
+  "Description": "用本地 AI 后端（SAM 3D Body）识别照片或插画里的人物姿势，重定向到你的种族骨架后通过 Brio 应用到 GPose 角色。支持复刻照片镜头、调整滑杆、导出 .pose，中英文界面。需要 Brio 与 Posegraph 后端一键包（见项目主页）。目前只适配男性骨架。",
+  "AssemblyVersion": "0.3.0.0",
+  "Changelog": "首个公开版本。",
+  "RepoUrl": "https://github.com/extrant/Posegraph",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "TestingDalamudApiLevel": 15,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "DownloadCount": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": "https://github.com/extrant/Posegraph/releases/latest/download/Posegraph.zip",
+  "DownloadLinkUpdate": "https://github.com/extrant/Posegraph/releases/latest/download/Posegraph.zip"
   }
 ]
